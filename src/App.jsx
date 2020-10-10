@@ -44,6 +44,8 @@
 import React from 'react';
 import Demo from './Demo';
 
+// import DummyImage from './images/shigeru_logo_test.svg';
+
 import './styles.css';
 
 // const colors = ['#21242d', '#ea5158', '#0d4663', '#ffbcb7', '#2d4a3e', '#8bd8d2'];
@@ -128,7 +130,9 @@ export default function App() {
         //     </Suspense>
         // </Canvas>
 
-        <Demo />
+        <>
+            <Demo />
+        </>
     )
 }
 

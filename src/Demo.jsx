@@ -10,6 +10,8 @@ import { useTransition, useSpring, a } from '@react-spring/three';
 // import { Canvas } from 'react-three-fiber';
 // import Demo from './Demo';
 
+// import DummyImage from './images/shigeru_logo_test.svg';
+
 import './styles.css';
 
 // const colors = ['#21242d', '#ea5158', '#0d4663', '#ffbcb7', '#2d4a3e', '#8bd8d2'];
@@ -22,15 +24,21 @@ const urls = ['night', 'city', 'morning', 'tubes', 'woods', 'beach'].map(
 
 
 
+// const remoteLoc = 'http://www.shigimcp.com/Xstage/shigimcp_2020_react/img/0elements/';
 
 // const logoUrl = './images/shigeru_logo_test.svg';
 
 // const logoUrls = ['shigeru_logo_test', 'shigeru_logo_transparent'].map(
 const logoUrls = ['arrow_lf', 'arrow_rt', 'badge_flash', 'badge_html5', 'badge_mobile', 'badge_video', 'curl_k', 'curl', 'grid', 'shigeru_logo_ko_rev', 'shigeru_logo_ko', 'shigeru_logo_rev', 'shigeru_logo', 'thoughtBubble'].map(
-    (name) => `https://www.shigimcp.com/Xstage/shigimcp_2020_react/img/0elements/${name}.svg`
+    // (name) => `https://www.shigimcp.com/Xstage/shigimcp_2020_react/img/0elements/${name}.svg`
     // (name) => `http://www.shigimcp.com/Xstage/shigimcp_2020_react/img/0elements/${name}.svg`
-    // (name) => 'http://www.shigimcp.com/Xstage/shigimcp_2020_react/img/0elements/${name}.svg'
+
     // (name) => `/images/${name}.svg`
+
+    // (name) => `https://github.com/shigimcp/threejs-experiment-02/tree/main/src/images/${name}.svg`
+    // (name) => `https://shigimcp.github.io/threejs-experiment-02/images/${name}.svg`
+    // (name) => `https://github.com/shigimcp/threejs-experiment-02/blob/master/${name}.svg?raw=true`
+    (name) => `https://raw.githubusercontent.com/shigimcp/threejs-experiment-02/images/${name}.svg`
 );
 
 
