@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # threejs-experiment-02
 An attempt at 3D
 
@@ -69,8 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
+=========================
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/shigimcp/threejs-experiment-02/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -108,4 +107,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 8a7d7d0cf15069b65c831fe3fe780beea5da9ab3
