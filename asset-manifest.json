@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/threejs-experiment-02/static/css/main.0bb39efa.chunk.css",
+    "main.js": "/threejs-experiment-02/static/js/main.b71a7050.chunk.js",
+    "main.js.map": "/threejs-experiment-02/static/js/main.b71a7050.chunk.js.map",
+    "runtime-main.js": "/threejs-experiment-02/static/js/runtime-main.3e48b830.js",
+    "runtime-main.js.map": "/threejs-experiment-02/static/js/runtime-main.3e48b830.js.map",
+    "static/js/2.a1511de4.chunk.js": "/threejs-experiment-02/static/js/2.a1511de4.chunk.js",
+    "static/js/2.a1511de4.chunk.js.map": "/threejs-experiment-02/static/js/2.a1511de4.chunk.js.map",
+    "index.html": "/threejs-experiment-02/index.html",
+    "precache-manifest.796aaa3b02dd22958c802616c35a3678.js": "/threejs-experiment-02/precache-manifest.796aaa3b02dd22958c802616c35a3678.js",
+    "service-worker.js": "/threejs-experiment-02/service-worker.js",
+    "static/css/main.0bb39efa.chunk.css.map": "/threejs-experiment-02/static/css/main.0bb39efa.chunk.css.map",
+    "static/js/2.a1511de4.chunk.js.LICENSE.txt": "/threejs-experiment-02/static/js/2.a1511de4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e48b830.js",
+    "static/js/2.a1511de4.chunk.js",
+    "static/css/main.0bb39efa.chunk.css",
+    "static/js/main.b71a7050.chunk.js"
+  ]
+}
