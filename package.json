@@ -12,7 +12,7 @@
         "react-scripts": "3.4.3",
         "react-spring": "^9.0.0-rc.3",
         "react-three-fiber": "^5.0.3",
-        "three": "^0.121.1"
+        "three": "^0.125.0"
     },
     "scripts": {
         "predeploy": "npm run build",
